@@ -13,12 +13,7 @@ Developed as part of my Capstone Project for my Bachelor of Information Technolo
 - JavaScript (browser extension front-end)
 - Python + Flask (API backend)
 - Machine Learning (feature extraction)
-- Dataset: phishing and legitimate URLs
-
-Project Structure
-/backend – Python backend (Flask API, ML model, training scripts)  
-/extension – Browser extension files  
-/docs – Technical report and documentation  
+- Dataset: phishing and legitimate URLs 
 
  How It Works
 1. User clicks the extension  
